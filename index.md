@@ -23,4 +23,4 @@ ___
 ## Social
 
 * We can connect on [LinkedIn](https://www.linkedin.com/in/adrienmogenet)
-* Email: adrien(at)mogenet(dot)me
+* Email: `adrien [at] mogenet [dot] me`
