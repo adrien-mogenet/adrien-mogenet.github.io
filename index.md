@@ -8,7 +8,7 @@ I'm researching and currently writing a book about what I call "Unpractical Deci
 
 ## Fields of interest
 
-I'm particularly interested to learn from your challenges in these fields:
+I'm particularly interested to discuss about your challenges in these fields:
 
 * Setting policies to fight the climate crisis
 * Decisions in sports (strategies, hiring decisions)
