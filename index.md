@@ -15,7 +15,7 @@ I'm particularly interested to discuss about your challenges in these fields:
 * Group decisions in organisations
 * Economic decisions (auction theory, game theory)
 * Boards decisions in large organisations
-* Morale dilemmas applied at a large scale
+* Moral dilemmas, applied at a large scale
 
 
 ___
