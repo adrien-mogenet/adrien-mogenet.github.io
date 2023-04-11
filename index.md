@@ -12,9 +12,9 @@ I'm particularly interested to hear about challenges in these fields:
 
 * Setting policies to fight the climate crisis
 * Decisions in sports (strategies, hiring decisions)
-* Group decisions in organisations
+* Group decisions in organizations
 * Economic decisions (auction theory, game theory)
-* Boards decisions in large organisations
+* Boards decisions in large organizations
 * Moral dilemmas, applied at a large scale
 * Decisions in early-stage startups
 
