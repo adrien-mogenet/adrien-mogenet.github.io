@@ -25,4 +25,4 @@ ___
 ## Social
 
 * We can connect on [LinkedIn](https://www.linkedin.com/in/adrienmogenet)
-* Email: `adrien@mogenet.me`
+* Email: `adrien.mogenet [at] gmail.com`
