@@ -27,5 +27,6 @@ ___
 
 * Follow my work on [Substack](https://unpracticaldecisions.substack.com/)
 * We can connect on [LinkedIn](https://www.linkedin.com/in/adrienmogenet)
-* Email: `adrien.mogenet [at] gmail.com`
+* Email: `adrien [at] mogenet.me`
+
 
