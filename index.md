@@ -27,6 +27,8 @@ ___
 
 * Follow my work on [Substack](https://unpracticaldecisions.substack.com/)
 * We can connect on [LinkedIn](https://www.linkedin.com/in/adrienmogenet)
+* Book me on [Mentorcruise](https://mentorcruise.com/mentor/adrienmogenet/)
 * Email: `adrien [at] mogenet.me`
+
 
 
